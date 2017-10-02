@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56460671402",
+    "firebase_url": "https://banknotification-181518.firebaseio.com",
+    "project_id": "banknotification-181518",
+    "storage_bucket": "banknotification-181518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56460671402:android:1cdebf9023387bb3",
+        "android_client_info": {
+          "package_name": "com.android.keerthini.banknotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56460671402-kmanokckgugtmib8h87ldannjoob95tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.keerthini.banknotification",
+            "certificate_hash": "48bf396075eb9d982e1eaa896a62f01e40703e3d"
+          }
+        },
+        {
+          "client_id": "56460671402-5hsms4h9rlkit5ksrjlgjhluebhlfopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZY4jWzBANx1Nx-tweErYDFYCIQtnFYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56460671402-5hsms4h9rlkit5ksrjlgjhluebhlfopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

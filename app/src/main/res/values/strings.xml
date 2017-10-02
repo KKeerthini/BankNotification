@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BankNotification</string>
+    <string name="pay">PAY</string>
+    <string name="enter_amount">Enter Amount</string>
+</resources>
